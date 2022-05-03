@@ -22,7 +22,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet">
 	<link href="assets/css/app.css" rel="stylesheet">
 	<link href="assets/css/icons.css" rel="stylesheet">
-	<title>Rocker - Bootstrap 5 Admin Dashboard Template</title>
+	<title>National Sports Festivals</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
 </head>
