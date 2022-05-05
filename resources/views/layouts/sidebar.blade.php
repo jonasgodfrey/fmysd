@@ -32,7 +32,7 @@
             <a href="#" >
                 <div class="parent-icon"><i class='bx bx-home-circle'></i>
                 </div>
-                <div class="menu-title">Athlets Dash</div>
+                <div class="menu-title">Athletes Dash</div>
             </a>
 
         </li>
@@ -78,7 +78,7 @@
             <a href="widgets.html">
                 <div class="parent-icon"><i class='bx bx-user-plus'></i>
                 </div>
-                <div class="menu-title">Athlets</div>
+                <div class="menu-title">Athletes</div>
             </a>
         </li>
 
@@ -91,7 +91,7 @@
         </li>
 
         <li>
-            <a href="widgets.html">
+            <a href="/stateanalysis">
                 <div class="parent-icon"><i class='bx bx-bar-chart'></i>
                 </div>
                 <div class="menu-title">State Analysis</div>
@@ -122,9 +122,9 @@
                 <div class="menu-title">Sports</div>
             </a>
             <ul>
-                <li> <a href="authentication-signin.html"><i class="bx bx-right-arrow-alt"></i>Add Sport</a>
+                <li> <a href="/addsports"><i class="bx bx-right-arrow-alt"></i>Add Sport</a>
                 </li>
-                <li> <a href="authentication-signup.html"><i class="bx bx-right-arrow-alt"></i>Add Optional Sport</a>
+                <li> <a href="/addsports"><i class="bx bx-right-arrow-alt"></i>Add Optional Sport</a>
                 </li>
             </ul>
         </li>
@@ -135,9 +135,9 @@
                 <div class="menu-title">Sport Event</div>
             </a>
             <ul>
-                <li> <a href="#"><i class="bx bx-right-arrow-alt"></i>Add Event</a>
+                <li> <a href="/addsportevents"><i class="bx bx-right-arrow-alt"></i>Add Event</a>
                 </li>
-                <li> <a href="#"><i class="bx bx-right-arrow-alt"></i>Add Optional Event</a>
+                <li> <a href="/addsportevents"><i class="bx bx-right-arrow-alt"></i>Add Optional Event</a>
                 </li>
             </ul>
         </li>
