@@ -49,7 +49,7 @@
                                         </div>
                                         <div class="col-12">
                                             <div class="d-grid">
-                                                <button type="submit" class="btn btn-primary"><i class="bx bxs-lock-open"></i>Sign in</button>
+                                                <a href="/index" type="submit" class="btn btn-primary"><i class="bx bxs-lock-open"></i>Sign in</a>
                                             </div>
                                         </div>
                                     </form>

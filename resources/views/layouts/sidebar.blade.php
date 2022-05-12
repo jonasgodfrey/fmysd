@@ -21,7 +21,7 @@
 
         </li>
         <li>
-            <a href="#" >
+            <a href="/statedash" >
                 <div class="parent-icon"><i class='bx bx-home-circle'></i>
                 </div>
                 <div class="menu-title">State Dash</div>
@@ -29,7 +29,7 @@
 
         </li>
         <li>
-            <a href="#" >
+            <a href="/athletedash" >
                 <div class="parent-icon"><i class='bx bx-home-circle'></i>
                 </div>
                 <div class="menu-title">Athletes Dash</div>
@@ -61,21 +61,21 @@
         </li> --}}
         <li class="menu-label">Pages</li>
         <li>
-            <a href="widgets.html">
+            <a href="/listofdelegates">
                 <div class="parent-icon"><i class='bx bx-user'></i>
                 </div>
                 <div class="menu-title">State Delegates</div>
             </a>
         </li>
-        <li>
+        {{-- <li>
             <a href="widgets.html">
                 <div class="parent-icon"><i class='bx bx-user'></i>
                 </div>
                 <div class="menu-title">Sign Ups</div>
             </a>
-        </li>
+        </li> --}}
         <li>
-            <a href="widgets.html">
+            <a href="/listofathletes">
                 <div class="parent-icon"><i class='bx bx-user-plus'></i>
                 </div>
                 <div class="menu-title">Athletes</div>
