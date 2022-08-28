@@ -7,7 +7,7 @@
             <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2">
                 <div class="col mx-auto">
                     <div class="my-4 text-center">
-                        <img src="assets/images/logo-img.png" width="180" alt="" />
+                    <img src="assets/images/dlogo.png" width="294px" alt="" />
                     </div>
                     <div class="card">
                         <div class="card-body">
